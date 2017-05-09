@@ -1,6 +1,7 @@
-Converstion tools
+Converstion tools in one function
 
 - Dollars to cents
 - Gallons to Liters
 - Hours to minutes
 - Feet to inches
+- Degrees to radians
