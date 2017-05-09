@@ -14,3 +14,7 @@ def gallons_to_liters(gallons):
 	liters = gallons * 3.78541
 	return liters
 
+def moles_to_atoms(mol):
+	atoms = mols * 6.02e23
+	return atoms
+
